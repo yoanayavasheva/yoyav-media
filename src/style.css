@@ -1,0 +1,35 @@
+body {
+  text-align: center;
+  margin-top: 100px;
+}
+a {
+  text-decoration: none;
+  background-color: rgba(255, 0, 0, 0.694);
+  color: white;
+  border-radius: 20px;
+  padding: 10px;
+  margin: 10px;
+}
+
+a:hover {
+  background-color: rgba(255, 0, 0, 0.142);
+  border: 1px solid red;
+  color: red;
+}
+
+.enquiry {
+  font-style: italic;
+  margin: 30px;
+}
+
+header {
+  margin: 50px;
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+}
+
+h2 {
+  color: rgba(255, 0, 0, 0.45);
+  font-weight: 100;
+  letter-spacing: 2px;
+}
